@@ -1,14 +1,74 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OKXURa2t)
-# Trabalho Prático - Semana 9
+# 🛒 Mini Ecommerce – Catálogo em Cards
 
-Nesta atividade, você vai montar um programa para praticar funções em JavaScript e a manipulação do DOM, criando uma tela simples no estilo eCommerce que lista produtos em cards a partir de um objeto JSON (array de produtos).
+## 👤 Aluno
+- Nome: José Venâncio
+- Matrícula: 908181
 
-Você vai usar métodos e propriedades do document e seus nodos para criar elementos, definir atributos, alterar conteúdo, estilizar e registrar eventos.
+---
 
-A atividade foi pensada para ser concluída em até 1h no laboratório, usando Visual Studio Code e um navegador (DevTools/Console).
+## 📌 Descrição do Projeto
 
-## Informações Gerais
+Este projeto consiste na criação de um mini eCommerce utilizando JavaScript puro, com foco em:
 
-- Nome:
-- Matricula:
+- Manipulação do DOM
+- Uso de funções
+- Renderização dinâmica de dados (JSON)
+- Interação com o usuário (eventos)
 
+Os produtos são exibidos em formato de **cards**, com funcionalidades de:
+
+- 🔍 Busca por nome
+- 📂 Filtro por categoria
+- 📄 Visualização de detalhes
+- ⭐ Destaque de produtos
+
+---
+
+## 🖥️ Funcionalidades
+
+- Renderização dinâmica de produtos
+- Filtro por texto e categoria
+- Exibição de detalhes do produto
+- Destaque visual nos cards
+- Uso de eventos (click, input, change)
+
+---
+
+## 🧪 Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📸 Prints do Projeto
+
+### 🛍️ Cards Renderizados
+![Cards](public/prints/cards.png)
+
+---
+
+### 📄 Detalhes do Produto
+![Detalhes](public/prints/detalhes.png)
+
+---
+
+### 🧾 Console (querySelectorAll)
+![Console](public/prints/console.png)
+
+---
+
+## ⚙️ Observações Técnicas
+
+Neste projeto foram utilizados:
+
+- `getElementById`
+- `querySelector`
+- `querySelectorAll`
+- `createElement`
+- `appendChild`
+- `innerHTML`
+- `classList.add`
+- `style`
+- `addEventListener`
